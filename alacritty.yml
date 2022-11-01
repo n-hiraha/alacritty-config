@@ -6,8 +6,8 @@ shell:
 
 window:
   padding:
-    x: 8
-    y: 4
+    x: 0
+    y: 0
 
 key_bindings:
   - { key: Q, mods: Control, chars: "\x11" }
